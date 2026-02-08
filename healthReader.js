@@ -25,4 +25,4 @@ async function healthMetricsCounter(filePath) {
   }
 }
 
-
+module.exports = healthMetricsCounter;

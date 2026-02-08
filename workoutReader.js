@@ -55,4 +55,4 @@ async function workoutCalculator(filePath) {
   }
 }
 
-
+module.exports = workoutCalculator;
